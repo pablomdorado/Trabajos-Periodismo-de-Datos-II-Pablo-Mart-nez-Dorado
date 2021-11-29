@@ -26,4 +26,4 @@ Por último, tras abrir el DataWrapper y cargar el archivo en la web con sus cor
 Además, en el apartado de color, he personalizado a cada candidato con un color de manera que se viera diferenciado cuál de ellos tenía más éxito. 
 
 
-En última instancia, le he dado a publicar incluyendo mi nombre y la posibilidad de descargárselo y este es el [resultado](https://datawrapper.dwcdn.net/NlmvM/1/). 
+En última instancia, le he dado a publicar incluyendo mi nombre y la posibilidad de descargárselo y este es el [resultado](https://datawrapper.dwcdn.net/NlmvM/2/). 
