@@ -14,14 +14,16 @@ En primer lugar, para separar los datos, he elegido dentro del programa Open Ref
 ## Desarrollo de la actividad 
 
 
-A continuación, y una vez abierto el archivo, he cambiado los nombres de las columnas a español siendo fecha, nombre y volúmen de tuits los valores indicados. Además, por si acaso le he indicado tanto en nombre como en volumen de tuits que se correspondan con faceta de texto y numérica respectivamente mediante el uso de las transformaciones comunes. 
+A continuación, y una vez abierto el archivo, he cambiado los nombres de las columnas a español siendo fecha, nombre y volúmen de tuits los valores indicados. Además, por si acaso le he indicado que nombre me lo tratara como texto, volumen de tuits como número y fecha como fecha mediante el uso del comando de transformaciones comunes.
 
 Con la faceta de texto también he comprobado que ninguno de los nombres está mal escrito o existe incoherencia alguna. Además, mediante la opción ordenar (opción por texto y distinguiendo mayúsculas y minúsculas) le he indicado al programa que me ordenara la columna de fechas por su fecha correspondiente (en ordenar/fechas). Una vez hecho esto, he exportado el proyecto en formato Xls.  
 
+
 ## Elección del gráfico 
 
-Por último, tras abrir el DataWrapper y cargar el archivo en la web con sus correspondientes columnas de nombre, fecha y volumen de tuits. Después de investigar los distintos gráficos, he decidido escoger el de gráfica de área ya que mi objetivo era valorar el volumen de tuits no por candidato, sino en total por mes viendo en qué períodos hubo mayor de la actividad de los candidatos y en cuál menos. 
+Por último, tras abrir el DataWrapper y cargar el archivo en la web con sus correspondientes columnas de nombre, fecha y volumen de tuits. Después de investigar los distintos gráficos, he decidido escoger el de diagrama de dispersión de manera que me indicara no solo el volumen de tuits, sino también su éxito. Dentro de este apartado he seleccionado la fecha como eje horizontal y el volumen de tuits como eje vertical.
 
-Dentro del aspecto mejora del gráfico, he indicado al programa que para el eje horizontal eligiera la columna fecha de manera que la vertical fuera los miles de tuits. 
+Además, en el apartado de color, he personalizado a cada candidato con un color de manera que se viera diferenciado cuál de ellos tenía más éxito. 
 
-En última instancia, le he dado a publicar incluyendo mi nombre y la posibilidad de descargárselo y este es el [resultado](https://datawrapper.dwcdn.net/gULPa/2/). 
+
+En última instancia, le he dado a publicar incluyendo mi nombre y la posibilidad de descargárselo y este es el [resultado](https://datawrapper.dwcdn.net/NlmvM/1/). 
