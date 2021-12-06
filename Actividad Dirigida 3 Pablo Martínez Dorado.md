@@ -27,4 +27,5 @@ Además, en el apartado de color, he personalizado a cada candidato con un color
 
 
 En última instancia, le he dado a publicar incluyendo mi nombre y la posibilidad de descargárselo y este es el [resultado](https://github.com/pablomdorado/Trabajos-Periodismo-de-Datos-II-Pablo-Mart-nez-Dorado/blob/main/img/Actividad3.png). 
-https://github.com/pablomdorado/Trabajos-Periodismo-de-Datos-II-Pablo-Mart-nez-Dorado/blob/main/img/Actividad3.png
+
+ (./img/Actividad3.png)
